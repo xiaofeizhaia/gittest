@@ -16,5 +16,6 @@ public class App
         System.out.println("hot-fix test1");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("项目更新");
     }
 }
