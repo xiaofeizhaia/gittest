@@ -15,5 +15,6 @@ public class App
         System.out.println("master");
         System.out.println("hot-fix test1");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
